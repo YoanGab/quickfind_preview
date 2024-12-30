@@ -37,7 +37,7 @@ QuickFindAI is a conversational AI assistant designed to transform the online sh
 
 ## Skills Demonstrated
 
-1.  **AI/ML Expertise**
+1.  **Generative AI Expertise**
     *   Expertise in using Langchain, Langgraph, and OpenAI models for building natural and dynamic conversation flows, including intent recognition and entity extraction.
     *   Proficient in embedding-based product search with vector databases, particularly Pinecone, to ensure efficient and relevant retrieval.
 
